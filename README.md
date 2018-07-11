@@ -1,6 +1,6 @@
 Stock Tracker Application
 
-Link: to be updated
+Link: https://desolate-stream-25622.herokuapp.com/
 
 Users who sign up for this application can track stocks of companies they like.  They can friend fellow users of the application and follow them for investing ideas. Every user has a portfolio which displays the information related to stocks being tracked and search functionality for friends and companies.
 
