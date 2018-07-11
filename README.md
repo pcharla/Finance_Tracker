@@ -1,9 +1,22 @@
-# README
+Use Devise gem to set up a standard authentication system for sign-up/edit profile/login/logout functionalities
+Customize devise to add first and last name to users
+Profile page which has a listing of all the stocks a user is following/tracking
+New stock search option available using symbol for the company stock and add to existing following stocks displayed on a user's portfolio
+Use AJAX for submission and display; and also to display spinner which usually shows up while a user waits for search results
+A User can have fellow people on the application as friends , have add friend functionality by looking them up using first/last names, email or partial searches and keep up with what stocks they are following or just view their profile.
+Portfolio privacy options available.
+Complex implementations of associations and validations can be seen
+Use gem to get live stock prices and to look them up
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+Requirements:
+
+Each user can track stocks: 10 stocks per user. Profile page will display current stocks and prices
+Follow friends for investing ideas and not for shady purposes
+Application has to be mobile friendly hence Responsive design
+Presentable application, fast development, developments for future according to the requirements
+Core functionality and presentation is important at this point
+test framework for future.
 
 * Ruby version
 
