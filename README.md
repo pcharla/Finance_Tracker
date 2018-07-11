@@ -1,4 +1,12 @@
-Use Devise gem to set up a standard authentication system for sign-up/edit profile/login/logout functionalities
+Stock Tracker Application
+
+Link: to be updated
+
+Users who sign up for this application can track stocks of companies they like.  They can friend fellow users of the application and follow them for investing ideas. Every user has a portfolio which displays the information related to stocks being tracked and search functionality for friends and companies.
+
+Additional information:
+
+Devise gem to set up a standard authentication system for sign-up/edit profile/login/logout functionalities
 Customize devise to add first and last name to users
 Profile page which has a listing of all the stocks a user is following/tracking
 New stock search option available using symbol for the company stock and add to existing following stocks displayed on a user's portfolio
@@ -18,9 +26,9 @@ Presentable application, fast development, developments for future according to 
 Core functionality and presentation is important at this point
 test framework for future.
 
-* Ruby version
+* Ruby version: 2.5.0
 
-* System dependencies
+* System dependencies:
 
 * Configuration
 
