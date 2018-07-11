@@ -69,5 +69,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 group :production do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
-  gem 'pg'
+  gem 'pg'. '->0.11'
 end
