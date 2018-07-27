@@ -8,7 +8,7 @@ class StocksController < ApplicationController
     end
     respond_to do |format|
       format.js { render partial: 'users/result'}
-    end
+  end
 
 
   end
